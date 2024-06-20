@@ -3,7 +3,7 @@
 ### Documentation files
 
 This directory contains legacy documentation files, essentially
-the TSDuck user's guide and coding guidelines, is Microsoft Word
+the TSDuck user's guide and coding guidelines, in Microsoft Word
 and PDF format.
 
 ### Font files
